@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "618183878810",
+    "project_id": "demo1-40f51",
+    "storage_bucket": "demo1-40f51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618183878810:android:2d494fec879fe0afbdd723",
+        "android_client_info": {
+          "package_name": "com.example.app_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAto6dVxQmJqaqWpKPY-WQ0Edv6Dtn3pfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618183878810:android:05bf1cc2f74b2b19bdd723",
+        "android_client_info": {
+          "package_name": "com.example.netflix_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAto6dVxQmJqaqWpKPY-WQ0Edv6Dtn3pfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
